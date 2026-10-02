@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+env/
+.venv/
+*.db
+*.sqlite
+*.sqlite3
+*.pkl
+*.joblib
+*.log
+
+# Node
+node_modules/
+dist/
+dist-ssr/
+
+# Environment files (keep .env.example, ignore real .env)
+.env
+.env.local
+.env.production
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
